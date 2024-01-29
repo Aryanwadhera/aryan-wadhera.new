@@ -781,7 +781,7 @@
 }
 .home-main {
   gap: var(--dl-space-space-fiveunits);
-  width: 100%;
+  width: 895px;
   display: flex;
   max-width: 900px;
   align-items: flex-start;
@@ -838,18 +838,17 @@
 .home-textinput2 {
   width: 100%;
   height: 114px;
-  padding: 10px;
   font-size: 18px;
   align-self: flex-start;
   text-align: left;
   line-height: 27px;
-  padding-top: 0px;
+  padding-top: 1rem;
   border-color: rgba(0, 0, 0, 0.2);
   border-width: 0px;
-  padding-left: 0px;
+  padding-left: 1rem;
   border-radius: 20px;
-  padding-right: 0px;
-  padding-bottom: 0px;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
   border-bottom-width: 0px;
 }
 .home-button {
